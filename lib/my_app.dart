@@ -8,6 +8,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blueGrey,
       ),
+      title: 'BMI Calculator',
       home: BMICode(),
     );
   }
