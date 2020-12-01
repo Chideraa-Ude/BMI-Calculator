@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "bmi_app",
+            "name": "BMI Calculator",
             "request": "launch",
             "type": "dart",
             "flutterMode": "debug"
